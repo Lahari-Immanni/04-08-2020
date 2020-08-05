@@ -23,11 +23,13 @@ namespace SortedListInCollections
                 Console.WriteLine("{0}={1}", i.Key, i.Value);
             }
             Console.WriteLine(sort.Count());
+
             Console.WriteLine(sort.ContainsKey(8));
             Console.WriteLine(sort.ContainsValue("eight"));
             Console.WriteLine(sort.ContainsKey(7));
             Console.WriteLine(sort.ContainsValue("five"));
             Console.Read();
+
         }
     }
 }
