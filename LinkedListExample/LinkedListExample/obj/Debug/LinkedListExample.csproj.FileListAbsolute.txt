@@ -1,0 +1,7 @@
+D:\dotnet\DotNetConsoleApps\LinkedListExample\LinkedListExample\bin\Debug\LinkedListExample.exe.config
+D:\dotnet\DotNetConsoleApps\LinkedListExample\LinkedListExample\bin\Debug\LinkedListExample.exe
+D:\dotnet\DotNetConsoleApps\LinkedListExample\LinkedListExample\bin\Debug\LinkedListExample.pdb
+D:\dotnet\DotNetConsoleApps\LinkedListExample\LinkedListExample\obj\Debug\LinkedListExample.csprojAssemblyReference.cache
+D:\dotnet\DotNetConsoleApps\LinkedListExample\LinkedListExample\obj\Debug\LinkedListExample.csproj.CoreCompileInputs.cache
+D:\dotnet\DotNetConsoleApps\LinkedListExample\LinkedListExample\obj\Debug\LinkedListExample.exe
+D:\dotnet\DotNetConsoleApps\LinkedListExample\LinkedListExample\obj\Debug\LinkedListExample.pdb

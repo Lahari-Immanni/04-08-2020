@@ -1,0 +1,7 @@
+D:\dotnet\DotNetConsoleApps\ListInCollections\ListInCollections\bin\Debug\ListInCollections.exe.config
+D:\dotnet\DotNetConsoleApps\ListInCollections\ListInCollections\bin\Debug\ListInCollections.exe
+D:\dotnet\DotNetConsoleApps\ListInCollections\ListInCollections\bin\Debug\ListInCollections.pdb
+D:\dotnet\DotNetConsoleApps\ListInCollections\ListInCollections\obj\Debug\ListInCollections.csprojAssemblyReference.cache
+D:\dotnet\DotNetConsoleApps\ListInCollections\ListInCollections\obj\Debug\ListInCollections.csproj.CoreCompileInputs.cache
+D:\dotnet\DotNetConsoleApps\ListInCollections\ListInCollections\obj\Debug\ListInCollections.exe
+D:\dotnet\DotNetConsoleApps\ListInCollections\ListInCollections\obj\Debug\ListInCollections.pdb
