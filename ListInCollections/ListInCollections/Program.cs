@@ -43,6 +43,7 @@ namespace ListInCollections
                 p1.DisplayPerson();
             }
             );
+
             Console.Read();
         }
     }
